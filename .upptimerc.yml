@@ -19,8 +19,8 @@ status-website:
   baseUrl: /uptime_test
   logoUrl: /assets/upptime-icon.jpg
   name: Constata UPtime Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Esto es una prueba de monitoreo de status de los servicios de Constata"
+  introMessage: Para más información visita https://constata.eu
   navbar:
     - title: Status
       href: /

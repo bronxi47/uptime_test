@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime_test
-  logoUrl: /assets/upptime-icon.jpg
+  logoUrl: /assets/icon.jpg
   name: Constata UPtime Status
   introTitle: "Esto es una prueba de monitoreo de status de los servicios de Constata"
   introMessage: Para más información visita https://constata.eu
